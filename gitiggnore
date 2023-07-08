@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode
+
+# Data
+data/
+
+# Output
+output.txt
